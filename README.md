@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, Node and TypeScript**
 
-- 💬 Ask me about **PHP, JavaScript, Yii2**
+- 💬 Ask me about **PHP, JavaScript, Laravel, Yii2**
 
 
 <div align="center">
